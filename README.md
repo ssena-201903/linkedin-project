@@ -1,16 +1,19 @@
-# linkedin_clone
+# LinkedIn Clone
 
-A new Flutter project.
+Bu proje Flutter kullanılarak geliştirilmiş bir LinkedIn klonudur.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🎥 Demo Video
 
-A few resources to get you started if this is your first Flutter project:
+📽 [Uygulama Videosunu Google Drive üzerinden izlemek için tıklayın]([https://drive.google.com/file/d/1abcDEFgHIJKlmNOP/view?usp=sharing](https://drive.google.com/file/d/1epjL2Sdv4M3VDg51Nvv9hDxl7zswhWo0/view?usp=sharing))
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# LinkedIn Clone
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a LinkedIn clone developed using Flutter.
+
+## 🎥 Demo Video
+
+📽 [Click here to watch the application demo video on Google Drive](https://drive.google.com/file/d/1epjL2Sdv4M3VDg51Nvv9hDxl7zswhWo0/view?usp=sharing)
+
+
+
